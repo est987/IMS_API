@@ -1,6 +1,5 @@
 typeId,channelName,unit
 1.0,Rain,mm
-1.0,Rain,degC
 2.0,Vbatt,volt
 3.0,STDwd,deg
 4.0,WS,m/sec

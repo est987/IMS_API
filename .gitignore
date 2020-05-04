@@ -1,2 +1,4 @@
 
-SECRETS/*
+SECRETS/API_TOKEN.txt
+
+.ipynb_checkpoints/*
